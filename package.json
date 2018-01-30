@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/ataomega/react-native-checkbox-group.git"
   },
-  "dependencies": {
-    "react-native-vector-icons": "^3.0.0"
-  },
   "keywords": [
     "React",
     "react",
